@@ -8,7 +8,6 @@ const Campo = styled.div`
   margin-bottom: 1rem;
   align-items: center;
   flex-wrap: wrap;
-  justify-content: space-between;
 `;
 
 const Label = styled.label`
@@ -25,7 +24,7 @@ const Select = styled.select`
 `;
 
 const InputRadio = styled.input`
-  margin: 0;
+  margin: 0 15px;
 `;
 
 const Boton = styled.button`
