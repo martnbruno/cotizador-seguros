@@ -125,7 +125,7 @@ const Formulario = ({ guardarResumen, guardarCargando }) => {
           <option value="">-- Seleccione --</option>
           <option value="americano">-- Americano --</option>
           <option value="europeo">-- Europeo --</option>
-          <option value="Asiatico">-- Asiatico --</option>
+          <option value="asiatico">-- Asiatico --</option>
         </Select>
       </Campo>
       <Campo>
