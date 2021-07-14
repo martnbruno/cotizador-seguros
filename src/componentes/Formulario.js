@@ -48,7 +48,7 @@ const Boton = styled.button`
 const Error = styled.div`
   background-color: #fc0404ed;
   color: #ffff;
-  padding: 1rem;
+  padding: 0.5rem 0.2rem;
   width: 100%;
   text-align: center;
   margin-bottom: 2rem;
