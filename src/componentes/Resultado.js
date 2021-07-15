@@ -39,7 +39,7 @@ const Resultado = ({ cotizacion }) => {
           timeout={{ enter: 500, exit: 500 }}
         >
           <TextoCotizacion>
-            Precio Final: $ <span> {cotizacion} </span>{" "}
+            Precio Final: <span> {cotizacion} </span>€{" "}
           </TextoCotizacion>
         </CSSTransition>
       </TransitionGroup>

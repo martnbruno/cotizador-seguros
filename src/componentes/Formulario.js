@@ -85,7 +85,7 @@ const Formulario = ({ guardarResumen, guardarCargando }) => {
     guardarError(false);
 
     // Valor base del seguro se fija en 2000
-    let resultado = 2000;
+    let resultado = 100;
 
     // Obtener diferencia de años entre lo seleccionado por el usuario y el año actual.
     const diferencia = obtenerDiferenciaYear(year);
